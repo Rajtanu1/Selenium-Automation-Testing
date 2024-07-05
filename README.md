@@ -53,12 +53,12 @@ on elements such as buttons, forms, input fields, textbox, checkbox, radio butto
 </h2>
 <ul>
   <li>
-    <a href="https://1drv.ms/x/c/50ad0860025d5feb/EebWzGxIq6pFtzmzprs42NgB1kVJiJGUug_Ch4lGBQf6Jg?e=oj2Ps5">
+    <a href="https://docs.google.com/spreadsheets/d/1boHFb0NPwlMNTg1-q2qgAJS-PqzEdxOL/edit?usp=sharing&ouid=116290171687597150582&rtpof=true&sd=true">
       Test Scenario
     </a>
   </li>
   <li>
-    <a href="https://1drv.ms/x/c/50ad0860025d5feb/Ece692dB4wVPk4EdBVzAz78BwhjqntkmODN2x04nVoRPaQ?e=UQeaMG">
+    <a href="https://docs.google.com/spreadsheets/d/121jOLUAWa33nwWa0-qSa-d3mXZbRj_pf/edit?usp=sharing&ouid=116290171687597150582&rtpof=true&sd=true">
       Test Case
     </a>
   </li>
